@@ -58,13 +58,10 @@ http://127.0.0.1:5000
 ## 📸 Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
 
 ### Home Page (after Google Login)
-![Home](screenshots/home.png)
 
 ### Pattern Output (Centered Rhombus)
-![Output](screenshots/output.png)
 
 ---
 
