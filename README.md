@@ -30,7 +30,6 @@ pip install -r requirements.txt
 ```
 
 ### 4️⃣ Create a `.env` file  
-⚠️ Do NOT upload your `.env` file to GitHub.
 
 Paste this into `.env`:
 
