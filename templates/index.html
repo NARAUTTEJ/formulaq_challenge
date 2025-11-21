@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card">
+    <h2>Phase 1: Authentication</h2>
+    <p>Please sign in using your Google account.</p>
+
+    <a href="{{ url_for('login') }}">
+        <img src="https://developers.google.com/identity/images/btn_google_signin_dark_normal_web.png"
+             alt="Sign in with Google">
+    </a>
+</div>
+{% endblock %}
